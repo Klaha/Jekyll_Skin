@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan&#39;s Lair</title>
+    <description>Blog realizado en Jekyll para documentar las experiencias en HACK. Hecho con amor, desveladas y lágrimas de programador &lt;3
+</description>
+    <link>http://Klaha.github.io/jekyll-hyde/</link>
+    <atom:link href="http://Klaha.github.io/jekyll-hyde/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 18 Nov 2014 21:37:13 -0430</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2014 21:37:13 -0430</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Matrices Infernales</title>
+        <description>&lt;p&gt;Las matrices del ejercicio de ayer se convirtieron poco a poco en una versión del mítico juego Battleships. Después de tantas horas, al fin mi juego funciona a la perfección; pero sin embargo a veces creo que tengo algo malo… mi código está súper complejo.&lt;/p&gt;
+
+&lt;p&gt;Lo vuelvo a repetir… odio las matrices desde la primera vez que las conocí en &lt;code&gt;C++&lt;/code&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/11/Matrices-Infernales.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/11/Matrices-Infernales.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>JavaScript: revisited.</title>
+        <description>&lt;p&gt;Semana de revisión de JavaScript. Hicimos unas librerías de Arrays y de Tiempo en JS modulariazadas. Como tarea quedó realizar un ejercicio de Matrices… odio Matrices desde la Universidad. Vamos a ver qué tal.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/10/javascript-revisited.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/10/javascript-revisited.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tirando la cédula!</title>
+        <description>&lt;p&gt;Hoy fué un día tranquilazo. Abraham nos mostró un ejercicio bien depinga, cómo sacar la raíz cuadrada de un número sin usar &lt;code&gt;sqrt&lt;/code&gt; y solo usando divisiones. Después de haberlo realizado, nos pusimos a conversar sobre videojuegos, y resulta que &lt;strong&gt;Abraham&lt;/strong&gt; es un PC Gamer como yo.&lt;/p&gt;
+
+&lt;p&gt;Hablamos de juegos tan viejos cómo &lt;em&gt;Phantasmagoria&lt;/em&gt;, &lt;em&gt;The 7th Guest&lt;/em&gt; y &lt;em&gt;Duken Nukem 3D&lt;/em&gt;… fué depinga hablar de esos juegos que tanto marcaron mi infancia, y ver que no fuí el único!&lt;/p&gt;
+
+&lt;p&gt;Bueno, eso es todo… &lt;strong&gt;#maricoelquelolea&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Más JevaScript...</title>
+        <description>&lt;p&gt;Se decidió extender por una semana más las actividades de &lt;em&gt;JavaScript&lt;/em&gt;, debido a que muchos estamos bombeados y full con los retos.&lt;/p&gt;
+
+&lt;p&gt;Hicimos un ejercicio sencillito de edades, y luego conocimos al mentor que faltaba (Rubén). Con él, realizamos desde cero el ejercicio de números primos de una manera diferente. Yo ya lo había hecho (&lt;strong&gt;ay que echón eres becerro&lt;/strong&gt;) pero esta manera me pareció más depinga.&lt;/p&gt;
+
+&lt;p&gt;Me atiborré de pasta seca como si no hubiese un mañana hahaha.&lt;/p&gt;
+
+&lt;p&gt;PD: Ya esto me da un pelo de risa, parece una Pascualina xD&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>JEVAScript</title>
+        <description>&lt;p&gt;Si bien esta semana habíamos visto algo de JavaScript, hoy ahondamos más en el asunto. Hicimos unos programas sencillos; mención especial para uno donde empezamos a entrar en el tema de la modularidad y las funciones. Ya es algo con lo que había tratado anteriormente, así que no tuve complicaciones con esto.&lt;/p&gt;
+
+&lt;p&gt;Hay &lt;strong&gt;BURDA&lt;/strong&gt; de retos por hacer. He estado super full con las cuestiones de la banda y &lt;strong&gt;HACK&lt;/strong&gt; por lo que me ha costado mantenerme al día. Hoy al menos no tengo nada importante que hacer, por lo que aprovecharé el tiempo para ponerme al día con el verguero de retos que nos pusieron; y tratar de terminar el footer de youtube y el logo de npm.&lt;/p&gt;
+
+&lt;p&gt;Sé que Rommer dijo que dejáramos eso para después y tal, y que nos enfocáramos en los retos diarios… pero de pana me ladilla tener cosas pendientes. Espero tener ya esto listo hoy.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/05/jevascript.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/05/jevascript.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>División sin Dividir?</title>
+        <description>&lt;p&gt;Inicio el blog estático en &lt;strong&gt;Jekyll&lt;/strong&gt; con el día más intenso hasta la fecha en HACK.&lt;/p&gt;
+
+&lt;p&gt;Hoy el mentor fué &lt;strong&gt;Aníbal&lt;/strong&gt;. Desde las 9am hasta las 5pm prácticamente estuvimos dándole carajazos a un algoritmo de cómo realizar una división, y trasladarlo después a JS. Realmente fué una buena práctica (aunque &lt;em&gt;intensa&lt;/em&gt;); ya que muchas veces al propio Aníbal le tocó rehacer partes del algoritmo porque tenía errores, cosa muy común en el ámbito laboral.&lt;/p&gt;
+
+&lt;p&gt;Mi programa iba bien hasta que no sé aún qué carajos modifiqué que dañé todo mi código y me tocó rehacerlo desde cero; cosa que Aníbal dice que es lo mejor en algunos casos.&lt;/p&gt;
+
+&lt;p&gt;Salí reventado de esa vaina… pero aprendí burda pues.&lt;/p&gt;
+
+&lt;p&gt;PD: pronto iré realizando cambios estéticos al blog, conforme vaya teniendo tiempo libre para ello y vaya saliendo de los retos.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2014 11:52:57 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/04/division-sin-dividir.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/04/division-sin-dividir.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

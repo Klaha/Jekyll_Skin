@@ -6,9 +6,67 @@
 </description>
     <link>http://Klaha.github.io/jekyll-hyde/</link>
     <atom:link href="http://Klaha.github.io/jekyll-hyde/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Nov 2014 21:37:13 -0430</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2014 21:37:13 -0430</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2014 21:51:26 -0430</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2014 21:51:26 -0430</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Bash</title>
+        <description>&lt;p&gt;Hoy aprendimos un pelo más sobre el bash, y los comandos para movilizarnos en consola tanto en Linux como en Mac.&lt;/p&gt;
+
+&lt;p&gt;Hoy tuve un ligero problema, y es que aunque uso Mac y muchos comandos de bash sirven en mi laptop; hay unos que no (supongo que por politicas de Apple). Entre ellos el &lt;code&gt;adduser&lt;/code&gt; que simplemente no funcionaba.&lt;/p&gt;
+
+&lt;p&gt;Si bien sabia como realizar el reto, y ayudé a mis compañeros; no pude realizarlo por ese problema. Pero lo importante es que entendí todo. Creo que intentaré también utilizar &lt;strong&gt;VIM&lt;/strong&gt; como editor en consola… Muchos se quejan de que es complicado, pero después de haber pasado un rato customizándolo con mis preferencias le agarré el gusto.&lt;/p&gt;
+
+&lt;p&gt;Mientras todos realizaban los retos (menos aquellos en MAC XD), me puse a customizar mi bash, que me estaba dando problemas al pasar a root. Quedó bello :$&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/18/bash.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/18/bash.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unix</title>
+        <description>&lt;p&gt;Hoy llegué tardísimo del viaje de Acarigua -_- apenas entré, estaba &lt;em&gt;Rommer&lt;/em&gt; explicando unas cosas de redes, como Megas y Megabits; y el porqué las empresas utilizan los Megas para expresar las velocidades que venden (típico ejemplo de porqué &lt;strong&gt;Inter&lt;/strong&gt; ofrece 10Megas pero la bajada es de 1Mb en buenas condiciones). También se habló de servidores y de acceso por ssh.&lt;/p&gt;
+
+&lt;p&gt;El ejercicio de hoy fué acceder a la PC de un compañero utilizando sólo SSH y trabajar desde ahí. De mas está decir que la consola murió al poco tiempo, y estaba super lageadísima.&lt;/p&gt;
+
+&lt;p&gt;Luego vimos Pivotal para delegar actividades y terminamos realizando un buscaminas, con funciones modularizadas entre todos. Me tocó el esqueleto principal, normalazo todo.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/17/unix.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/17/unix.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>BattleShip Revisited</title>
+        <description>&lt;p&gt;Ayer terminé de hacer el BattleShip pero muy poco modular. Mi código tiene una longitud de unas 450 líneas, y pocas funciones. En la mañana intenté modularizar todo, pero tengo un dolor de cabeza bien atrinca que no me deja pensar más.&lt;/p&gt;
+
+&lt;p&gt;Al final, me fuí al medio día a descansar; ya que el dolor de cabeza me tenía MUY mal. Y para rematar, mañana viajo a Acarigua a tocar con mi banda, y necesito estar buenas condiciones y ligar que no me enferme por allá.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/13/battleship-revisited.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/13/battleship-revisited.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>BattleShip</title>
+        <description>&lt;p&gt;Continuamos haciendo el BattleShip. Hasta hoy, el juego sólo pedía coordenadas al usuario y posicionaba sus barcos. Hoy se solicitó que también haya un jugador 2 y comenzar a hacer la lógica de ataque.&lt;/p&gt;
+
+&lt;p&gt;El dolor de cabeza no es nada normal x_x odio &lt;strong&gt;Matrices&lt;/strong&gt; de pana!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Nov 2014 00:00:00 -0430</pubDate>
+        <link>http://Klaha.github.io/jekyll-hyde/2014/11/12/battleship.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/12/battleship.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Matrices Infernales</title>

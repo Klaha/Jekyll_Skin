@@ -4,10 +4,10 @@
     <title>Jonathan&#39;s Lair</title>
     <description>Blog realizado en Jekyll para documentar las experiencias en HACK. Hecho con amor, desveladas y lágrimas de programador &lt;3
 </description>
-    <link>http://Klaha.github.io/jekyll-hyde/</link>
-    <atom:link href="http://Klaha.github.io/jekyll-hyde/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Nov 2014 21:51:26 -0430</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2014 21:51:26 -0430</lastBuildDate>
+    <link>http://Klaha.github.io/jekyll-hyde-skin/</link>
+    <atom:link href="http://Klaha.github.io/jekyll-hyde-skin/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 18 Nov 2014 21:55:13 -0430</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2014 21:55:13 -0430</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;p&gt;Mientras todos realizaban los retos (menos aquellos en MAC XD), me puse a customizar mi bash, que me estaba dando problemas al pasar a root. Quedó bello :$&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/18/bash.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/18/bash.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/18/bash.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/18/bash.html</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
 &lt;p&gt;Luego vimos Pivotal para delegar actividades y terminamos realizando un buscaminas, con funciones modularizadas entre todos. Me tocó el esqueleto principal, normalazo todo.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/17/unix.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/17/unix.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/17/unix.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/17/unix.html</guid>
         
         
       </item>
@@ -49,8 +49,8 @@
 &lt;p&gt;Al final, me fuí al medio día a descansar; ya que el dolor de cabeza me tenía MUY mal. Y para rematar, mañana viajo a Acarigua a tocar con mi banda, y necesito estar buenas condiciones y ligar que no me enferme por allá.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/13/battleship-revisited.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/13/battleship-revisited.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/13/battleship-revisited.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/13/battleship-revisited.html</guid>
         
         
       </item>
@@ -62,8 +62,8 @@
 &lt;p&gt;El dolor de cabeza no es nada normal x_x odio &lt;strong&gt;Matrices&lt;/strong&gt; de pana!&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/12/battleship.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/12/battleship.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/12/battleship.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/12/battleship.html</guid>
         
         
       </item>
@@ -75,8 +75,8 @@
 &lt;p&gt;Lo vuelvo a repetir… odio las matrices desde la primera vez que las conocí en &lt;code&gt;C++&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/11/Matrices-Infernales.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/11/Matrices-Infernales.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/11/Matrices-Infernales.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/11/Matrices-Infernales.html</guid>
         
         
       </item>
@@ -86,8 +86,8 @@
         <description>&lt;p&gt;Semana de revisión de JavaScript. Hicimos unas librerías de Arrays y de Tiempo en JS modulariazadas. Como tarea quedó realizar un ejercicio de Matrices… odio Matrices desde la Universidad. Vamos a ver qué tal.&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Nov 2014 00:00:00 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/10/javascript-revisited.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/10/javascript-revisited.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/10/javascript-revisited.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/10/javascript-revisited.html</guid>
         
         
       </item>
@@ -101,8 +101,8 @@
 &lt;p&gt;Bueno, eso es todo… &lt;strong&gt;#maricoelquelolea&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Nov 2014 11:52:57 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/07/tirando-la-cedula.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/07/tirando-la-cedula.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/07/tirando-la-cedula.html</guid>
         
         
       </item>
@@ -118,8 +118,8 @@
 &lt;p&gt;PD: Ya esto me da un pelo de risa, parece una Pascualina xD&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Nov 2014 11:52:57 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/06/mas-jevascript.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/06/mas-jevascript.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/06/mas-jevascript.html</guid>
         
         
       </item>
@@ -133,8 +133,8 @@
 &lt;p&gt;Sé que Rommer dijo que dejáramos eso para después y tal, y que nos enfocáramos en los retos diarios… pero de pana me ladilla tener cosas pendientes. Espero tener ya esto listo hoy.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Nov 2014 11:52:57 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/05/jevascript.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/05/jevascript.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/05/jevascript.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/05/jevascript.html</guid>
         
         
       </item>
@@ -152,8 +152,8 @@
 &lt;p&gt;PD: pronto iré realizando cambios estéticos al blog, conforme vaya teniendo tiempo libre para ello y vaya saliendo de los retos.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Nov 2014 11:52:57 -0430</pubDate>
-        <link>http://Klaha.github.io/jekyll-hyde/2014/11/04/division-sin-dividir.html</link>
-        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde/2014/11/04/division-sin-dividir.html</guid>
+        <link>http://Klaha.github.io/jekyll-hyde-skin/2014/11/04/division-sin-dividir.html</link>
+        <guid isPermaLink="true">http://Klaha.github.io/jekyll-hyde-skin/2014/11/04/division-sin-dividir.html</guid>
         
         
       </item>

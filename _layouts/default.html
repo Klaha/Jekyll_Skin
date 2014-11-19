@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+  <div class="container-fluid" style="background-image:url(http://www.pascualina.com/images/fondo-landing.jpeg);">
+    {% include header.html %}
+
+    <div class="row" style="background-color:white;">
+      <div class="page-content" style="background-color:white;">
+        <div class="col-md-4 col-sm-3 hidden-xs">
+          <img src="http://www.pascualina.com/images/pascua-landing.png" class="img-responsive pull-right" alt="Responsive image" style="max-height: 500px">
+        </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          {{ content }}
+        </div>
+      </div>  
+    </div>
+
+    {% include footer.html %}
+  </div>
+  </body>
+
+</html>

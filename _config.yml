@@ -1,0 +1,13 @@
+# Site settings
+title: Jonathan's Lair
+email: klaha.77@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog realizado en Jekyll para documentar las experiencias en HACK.
+  Hecho con amor, desveladas y lágrimas de programador <3
+baseurl: "/jekyll-hyde" # the subpath of your site, e.g. /blog/
+url: "http://Klaha.github.io" # the base hostname & protocol for your site
+twitter_username: el_klaha
+github_username:  Klaha
+
+# Build settings
+markdown: kramdown
